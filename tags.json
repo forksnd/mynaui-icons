@@ -17318,5 +17318,33 @@
     "interaction",
     "button",
     "action"
+  ],
+  "lira-circle": [
+    "lira",
+    "circle"
+  ],
+  "lira-diamond": [
+    "lira",
+    "diamond"
+  ],
+  "lira-hexagon": [
+    "lira",
+    "hexagon"
+  ],
+  "lira-octagon": [
+    "lira",
+    "octagon"
+  ],
+  "lira-square": [
+    "lira",
+    "square"
+  ],
+  "lira-waves": [
+    "lira",
+    "waves"
+  ],
+  "turkish-lira": [
+    "turkish",
+    "lira"
   ]
 }
