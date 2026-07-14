@@ -17346,5 +17346,50 @@
   "turkish-lira": [
     "turkish",
     "lira"
+  ],
+  "bug": [
+    "bug"
+  ],
+  "eject": [
+    "eject"
+  ],
+  "grip-horizontal": [
+    "grip",
+    "horizontal"
+  ],
+  "grip-vertical": [
+    "grip",
+    "vertical"
+  ],
+  "layout-dashboard": [
+    "layout",
+    "dashboard"
+  ],
+  "layout-panel-bottom": [
+    "layout",
+    "panel",
+    "bottom"
+  ],
+  "layout-panel-left": [
+    "layout",
+    "panel",
+    "left"
+  ],
+  "layout-panel-right": [
+    "layout",
+    "panel",
+    "right"
+  ],
+  "layout-panel-top": [
+    "layout",
+    "panel",
+    "top"
+  ],
+  "scale-unbalanced": [
+    "scale",
+    "unbalanced"
+  ],
+  "scale": [
+    "scale"
   ]
 }
