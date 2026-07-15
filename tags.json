@@ -17391,5 +17391,12 @@
   ],
   "scale": [
     "scale"
+  ],
+  "motorbike-package": [
+    "motorbike",
+    "package"
+  ],
+  "motorbike": [
+    "motorbike"
   ]
 }
